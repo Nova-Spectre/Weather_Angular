@@ -6,9 +6,9 @@ export const environment = {
   production: false,
   weatherApibaseUrl:'https://community-open-weather-map.p.rapidapi.com/weather',
   XRapidAPIHostHeaderName:'X-RapidAPI-Host',
-  XRapidAPIHostHeaderValue:'community-open-weather-map.p.rapidapi.com',
+  XRapidAPIHostHeaderValue:'YOUR HEADER HOST VALUE',   //YOUR HEADER HOST VALUE FROM RAPID API - OPEN WEATHER MAP API
   XRapidAPIKeyHeaderName:'X-RapidAPI-Key',
-  XRapidAPIKeyHeaderValue:'1fad8b12bdmsh84dcabaa075affbp1e9fb3jsn277f2529f297'
+  XRapidAPIKeyHeaderValue:'YOUR API KEY'     // YOUR HEADER KEY FROM RAPID API - OPEN WEATHER MAP API
 };
 
 /*
